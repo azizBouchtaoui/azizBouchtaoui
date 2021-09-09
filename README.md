@@ -9,3 +9,5 @@
 * :round_pushpin: for more details about my career 🎓 :
 
 * After two years of studying :book: a technical specialist in computer networks , I obtained a specialized technical diploma and worked for a year in a company specialized in networks :tokyo_tower:. I was working as a network maintenance technician (fiber optics)... :construction_worker: :electric_plug: Then I joined the Moroccan School of Engineering Sciences to complete my studies and I am now in my last year of computer and network engineering :pray:. Option, Computer Methods Applied to Business Management (Miage).Then I have experience dealing with networks and with coding :two_hearts:, realy  i am deeply with love in what I do :smiley:.
+
+* Organisation: Freelancer ✌️
