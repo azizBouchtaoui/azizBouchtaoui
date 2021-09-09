@@ -1,6 +1,6 @@
 ### Here is What I'm Working On! 👋
 
-I'M *Aziz BOUCHTAAOUI* from *Morroco*, and I'm a Computer and Network Engineering student :computer: at Moroccan School of Engineering Sciences (EMSI) :school: , option Computer Methods Applied to Business Management (Miage).
+I'M **Aziz BOUCHTAAOUI** from **Morroco**, and I'm a Computer and Network Engineering student :computer: at Moroccan School of Engineering Sciences (EMSI) :school: , option Computer Methods Applied to Business Management (Miage).
 
 I believe in creating opportunities instead of waiting for them. I like  learning new technologies so that I can use them while solving the problems. I follow the 'Learn-Share-Learn' approach to improve my skills. I haven't created any community but I am part of many of them.
 
