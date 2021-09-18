@@ -4,7 +4,7 @@
 
 * I believe in **creating opportunities** instead of waiting for them. I like  learning new technologies so that I can use them while **solving the problems**. I follow the **'Learn-Share-Learn'** approach to improve my skills. I haven't created any community but I am part of many of them.
 
-* I really enjoy learning languages and frameworks like ReactJS and React Native, NodeJS, DENOJS... :wink:, And  i like MERN Stack :heart_eyes:. As well as i have some experience in Contribution to the design and production of a 3D application in the Biomarine field in c# unity :video_game:
+* I really enjoy learning languages and frameworks like ReactJS and React Native, NodeJS, DENOJS... :wink:, And  i like MERN Stack :heart_eyes:. As well as i have some experience in Contribution to the design and production of a 3D application in the Biomarine field in c# unity :video_game:.
 
 * :round_pushpin: for more details about my career 🎓:
 
